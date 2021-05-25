@@ -8,7 +8,8 @@ understand the factors that lead a person to leave current job.
 
 
 I have used the knowledge of following in this Capstone project:
-### `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Sklearn` `Tableau`
+
+__`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Sklearn` `Tableau`__
 
 
 Click [here](https://github.com/apk1991/Capstone-Codecademy/blob/main/Who%20will%20leave%20and%20who%20will%20stay.ipynb) to go directly to the project notebook.
