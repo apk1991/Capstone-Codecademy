@@ -1,9 +1,7 @@
 ## Who will leave and who will stay?
 
 In this project, I have done the analyses on a dataset to predict which employees tend to change their current jobs and which candidates do not and what are the major reasons 
-
-forthe same. I have used a dataset from Kaggle which contains information related to demographics, education, experience on hand from registered and enrolled candidates to 
-
+for the same. I have used a dataset from Kaggle which contains information related to demographics, education, experience on hand from registered and enrolled candidates to 
 understand the factors that lead a person to leave current job.
 
 
